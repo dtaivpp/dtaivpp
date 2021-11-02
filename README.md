@@ -21,6 +21,8 @@ Hey all my name is David Tippett and I am currently working as a DevOps engineer
 ![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 
 
+#### &#128295; Recently Used Technologies & Tools
+
 ![ElasticSearch](https://img.shields.io/badge/Tools-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a) 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white&color=2bbc8a) 
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
@@ -28,7 +30,14 @@ Hey all my name is David Tippett and I am currently working as a DevOps engineer
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) 
 ![Kafka](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a) 
 ![Cassandra](https://img.shields.io/badge/Tools-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=2bbc8a) 
+![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a) 
+![SQL Server](https://img.shields.io/badge/Tools-SQL%20Server-informational?style=flat&logo=microsoft%20sql%20server&logoColor=white&color=2bbc8a)
 
+#### Stats
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=dtaivpp&theme=blue-green
+
+https://github-readme-stats.vercel.app/api?username=dtaivpp&theme=blue-green
 <!--
 **dtaivpp/dtaivpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
