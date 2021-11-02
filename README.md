@@ -18,7 +18,7 @@ Hey all my name is David Tippett and I am currently working as a DevOps engineer
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
 ![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a) 
-![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 
 
 ![ElasticSearch](https://img.shields.io/badge/Tools-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a) 
@@ -27,6 +27,7 @@ Hey all my name is David Tippett and I am currently working as a DevOps engineer
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) 
 ![Kafka](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a) 
+![Cassandra](https://img.shields.io/badge/Tools-Cassandra-informational?style=flat&logo=cassandra&logoColor=white&color=2bbc8a) 
 
 <!--
 **dtaivpp/dtaivpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
