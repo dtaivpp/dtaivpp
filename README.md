@@ -4,7 +4,7 @@ Hey all my name is David Tippett and I am currently working as a DevOps engineer
 
 #### &#127760; Social
 [![GitHub](https://img.shields.io/github/followers/dtaivpp?label=follow&style=social)](https://github.com/dtaivpp) [![Twitter](https://img.shields.io/twitter/follow/dtaivpp?style=social)](https://twitter.com/dtaivpp)  [![Linkedin](https://img.shields.io/badge/-dtaivpp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-tippett/)](https://www.linkedin.com/in/david-tippett/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://blog.tippybits.com)](https://blog.tippybits.com) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://blog.tippybits.com)](https://blog.tippybits.com) 
 
 
 <!--
