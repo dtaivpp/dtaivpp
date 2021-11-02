@@ -33,11 +33,26 @@ Hey all my name is David Tippett and I am currently working as a DevOps engineer
 ![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a) 
 ![SQL Server](https://img.shields.io/badge/Tools-SQL%20Server-informational?style=flat&logo=microsoft%20sql%20server&logoColor=white&color=2bbc8a)
 
-#### Stats
+#### &#x1f4c8; Github Stats
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=dtaivpp&theme=blue-green
+<a href="https://github.com/dtaivpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtaivpp&theme=blue-green" />
+</a>  
 
-https://github-readme-stats.vercel.app/api?username=dtaivpp&theme=blue-green
+<a href="https://github.com/dtaivpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtaivpp&theme=blue-green" alt="GitHub Stats" />
+</a>
+
+<!-- Will use this format to link my top repos. 
+<a href="https://github.com/techgaun/github-dorks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techgaun&repo=github-dorks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/techgaun/active-forks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techgaun&repo=active-forks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;
+-->
+
+
 <!--
 **dtaivpp/dtaivpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
