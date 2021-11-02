@@ -26,8 +26,8 @@ Hey all my name is David Tippett and I am currently working as a DevOps engineer
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) 
-![Kafka](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a) 
-![Cassandra](https://img.shields.io/badge/Tools-Cassandra-informational?style=flat&logo=cassandra&logoColor=white&color=2bbc8a) 
+![Kafka](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a) 
+![Cassandra](https://img.shields.io/badge/Tools-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=2bbc8a) 
 
 <!--
 **dtaivpp/dtaivpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
