@@ -17,7 +17,7 @@ Hey all my name is David Tippett and I am currently working as a DevOps engineer
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a) 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
-![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a) 
+![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a) 
 ![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 
 
