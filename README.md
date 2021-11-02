@@ -1,4 +1,14 @@
-### Hi there 👋
+# Welcome!
+
+Hey all my name is David Tippett and I am currently working as a DevOps engineer for PRA Group! As a DevOps enginner I am exceptionally passionate about distributed data systems, observability, and developer productivity and tooling standardization. 
+
+#### &#127760; Social
+[![GitHub](https://img.shields.io/github/followers/dtaivpp?label=follow&style=social)](https://github.com/dtaivpp) 
+
+[![Twitter](https://img.shields.io/twitter/follow/dtaivpp?style=social)](https://twitter.com/dtaivpp) 
+[![Linkedin](https://img.shields.io/badge/-David Tippett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-tippett/)](https://www.linkedin.com/in/david-tippett/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://blog.tippybits.com)](https://blog.tippybits.com) 
+
 
 <!--
 **dtaivpp/dtaivpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
