@@ -1,6 +1,6 @@
 # Welcome!
 
-Hey all my name is David Tippett and I am currently working as a DevOps engineer for PRA Group! As a DevOps enginner I am exceptionally passionate about distributed data systems, observability, developer productivity, and tooling standardization. 
+Hey all my name is David and I am currently working as a ~~DevOps engineer for PRA Group~~! As a DevOps enginner I am exceptionally passionate about distributed systems, data engineering, observability, developer productivity, and tooling standardization. 
 
 #### &#127760; Social
 [![GitHub](https://img.shields.io/github/followers/dtaivpp?label=follow&style=social)](https://github.com/dtaivpp) [![Twitter](https://img.shields.io/twitter/follow/dtaivpp?style=social)](https://twitter.com/dtaivpp)  [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-tippett/)](https://www.linkedin.com/in/david-tippett/) 
