@@ -35,16 +35,18 @@ Hey all my name is David and I am currently working as a ~~DevOps engineer for P
 
 #### &#x1f4c8; Github Stats
 <table>
-<col>
+<tbody>
+<td>
 <a href="https://github.com/dtaivpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtaivpp" />
 </a>
-</col>  
-<col>
+</td>  
+<td>
 <a href="https://github.com/dtaivpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtaivpp" alt="GitHub Stats" />
 </a>
-</col>
+</td>
+</tbody>
 </table>
 <!-- Will use this format to link my top repos. 
 <a href="https://github.com/techgaun/github-dorks">
