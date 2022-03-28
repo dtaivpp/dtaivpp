@@ -1,11 +1,14 @@
 # Welcome!
 
-Hey all my name is David and I am currently working as a ~~DevOps engineer for PRA Group~~! As a DevOps enginner I am exceptionally passionate about distributed systems, data engineering, observability, developer productivity, and tooling standardization. 
+Hey all my name is David and I am currently working as a Senior Developer Advocate for OpenSearch @ AWS! As an advocate I am exceptionally passionate about distributed systems, observability, and clustering with single board computers. 🤣  
 
 #### &#127760; Social
-[![GitHub](https://img.shields.io/github/followers/dtaivpp?label=follow&style=social)](https://github.com/dtaivpp) [![Twitter](https://img.shields.io/twitter/follow/dtaivpp?style=social)](https://twitter.com/dtaivpp)  [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-tippett/)](https://www.linkedin.com/in/david-tippett/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://blog.tippybits.com)](https://blog.tippybits.com) 
-
+<p align="center">
+  <a href=https://github.com/dtaivpp><img alt="GitHub" src="https://img.shields.io/github/followers/dtaivpp?label=follow&style=social"></a> 
+  <a href="https://twitter.com/dtaivpp"><img alt="Twitter" src="https://img.shields.io/twitter/follow/dtaivpp?style=social"></a>  
+  <a href="https://www.linkedin.com/in/david-tippett/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-tippett/"></a> 
+  <a href="https://blog.tippybits.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://blog.tippybits.com"></a>
+</p>
 
 #### &#128295; Current Technologies & Tools
 
