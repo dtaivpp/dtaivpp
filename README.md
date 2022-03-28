@@ -1,6 +1,6 @@
 # Welcome!
 
-Hey all my name is David and I am currently working as a Senior Developer Advocate for OpenSearch @ AWS! As an advocate I am exceptionally passionate about distributed systems, observability, and clustering with single board computers. 🤣  
+Hey all my name is David and I am currently a Senior Developer Advocate for OpenSearch team @ AWS! As an advocate, I am exceptionally passionate about distributed systems, observability, and clustering with single board computers. 🤣  
 
 #### &#127760; Social
 <p align="center">
@@ -15,7 +15,7 @@ Hey all my name is David and I am currently working as a Senior Developer Advoca
 ![OpenSearch](https://img.shields.io/badge/Tools-OpenSearch-informational?style=flat&logo=opensearch&logoColor=white&color=2bbc8a) 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
-![GoLang](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=golang&logoColor=white&color=2bbc8a) 
+![GoLang](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a) 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) 
