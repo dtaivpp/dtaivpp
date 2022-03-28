@@ -23,7 +23,7 @@ Hey all my name is David and I am currently working as a ~~DevOps engineer for P
 
 #### &#128295; Recently Used Technologies & Tools
 
-![ElasticSearch](https://img.shields.io/badge/Tools-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a) 
+![OpenSearch](https://img.shields.io/badge/Tools-OpenSearch-informational?style=flat&logo=opensearch&logoColor=white&color=2bbc8a) 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white&color=2bbc8a) 
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
 ![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
