@@ -34,15 +34,18 @@ Hey all my name is David and I am currently working as a ~~DevOps engineer for P
 ![SQL Server](https://img.shields.io/badge/Tools-SQL%20Server-informational?style=flat&logo=microsoft%20sql%20server&logoColor=white&color=2bbc8a)
 
 #### &#x1f4c8; Github Stats
-
+<table>
+<col>
 <a href="https://github.com/dtaivpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtaivpp&theme=blue-green" />
-</a>  
-
-<a href="https://github.com/dtaivpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtaivpp&theme=blue-green" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtaivpp" />
 </a>
-
+</col>  
+<col>
+<a href="https://github.com/dtaivpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtaivpp" alt="GitHub Stats" />
+</a>
+</col>
+</table>
 <!-- Will use this format to link my top repos. 
 <a href="https://github.com/techgaun/github-dorks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techgaun&repo=github-dorks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
