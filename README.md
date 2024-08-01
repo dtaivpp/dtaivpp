@@ -1,6 +1,6 @@
 # Welcome!
 
-Hey all my name is David and I am currently a Senior Developer Advocate for OpenSearch team @ AWS! As an advocate, I am exceptionally passionate about distributed systems, observability, and clustering with single board computers. 🤣  
+Hey all my name is David and I am currently building search for GitHub! As a search engineer I am figuring out how to find the right things across the billions of issues, repos, and users on GitHub. In my personal time I play with lots of different tooling to make my own life more enjoyable. This covers everything from single board computers to clustered utilities. 
 
 #### &#127760; Social
 <p align="center">
@@ -11,8 +11,9 @@ Hey all my name is David and I am currently a Senior Developer Advocate for Open
 </p>
 
 #### &#128295; Current Technologies & Tools
-
-![OpenSearch](https://img.shields.io/badge/Tools-OpenSearch-informational?style=flat&logo=opensearch&logoColor=white&color=2bbc8a) 
+![Elasticsearch](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a) 
+![OpenSearch](https://img.shields.io/badge/Tools-OpenSearch-informational?style=flat&logo=opensearch&logoColor=white&color=2bbc8a)
+![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
 ![GoLang](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a) 
